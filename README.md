@@ -95,29 +95,20 @@ Mobile Optimization: Ensure that your website is fully responsive and optimized 
 Frontend Website
 ![Frontend Website](images/frontend.png)
 
-CMS
-![CMS](images/CMS.png)
+Post Listing
+![CRM](images/1-posts.png)
 
 Post Creation
 ![CRM](images/2-create-post.png)
 
-Post Listing
-![CRM](images/1-posts.png)
+CMS
+![CMS](images/CMS.png)
 
-Product List
-![CRM](images/product_list.png)
+Manage Categories
+![Login](images/category.png)
 
-Product Setup
-![CRM](images/product_setup.png)
+Settings
+![Login Simple](images/settings.png)
 
-Login
-![Login](images/login.png)
-
-Login Simple
-![Login Simple](images/login_simple.png)
-
-Login With Card
-![Login With Card](images/login_card.png)
-
-Multi Level Draggable Tree Component
-![Right Drawer Form](images/multilevel_dragable_tree.png)
+Top Menu Management with Draggable Tree Component
+![Top Menu Management with Draggable Tree Component](images/multilevel_dragable_tree.png)
