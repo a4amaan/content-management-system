@@ -101,9 +101,6 @@ Post Listing
 Post Creation
 ![CRM](images/2-create-post.png)
 
-CMS
-![CMS](images/CMS.png)
-
 Manage Categories
 ![Login](images/category.png)
 
